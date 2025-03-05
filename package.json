@@ -1,0 +1,25 @@
+{
+  "name": "blog-web-app",
+  "version": "1.0.0",
+  "description": "a blog web application",
+  "homepage": "https://github.com/RichardKessler/Blog-Web-App#readme",
+  "bugs": {
+    "url": "https://github.com/RichardKessler/Blog-Web-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardKessler/Blog-Web-App.git"
+  },
+  "license": "MIT",
+  "author": "Richard Kessler",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
